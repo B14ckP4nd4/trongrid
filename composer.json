@@ -1,0 +1,18 @@
+{
+    "name": "bl4ckp4nd4/trongrid",
+    "description": "TronGrid API",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bl4ckp4nd4\\Trongrid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BlackPanda",
+            "email": "46260610+B14ckP4nd4@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
