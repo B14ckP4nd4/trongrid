@@ -14,5 +14,14 @@
             "email": "46260610+B14ckP4nd4@users.noreply.github.com"
         }
     ],
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "BlackPanda\\Trongrid\\TronGridServiceProvider"
+            ]
+        }
+    },
+
     "require": {}
 }
