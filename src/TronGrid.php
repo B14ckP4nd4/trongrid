@@ -79,6 +79,9 @@ class TronGrid
                 break;
 
             $fingerPrint = $data->meta->fingerprint;
+
+            // small delay
+            sleep(2);
         }
 
         $result = new \stdClass();
